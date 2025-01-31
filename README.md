@@ -2,8 +2,6 @@
 	<img width="500" height="350" src="media/logo.png" alt="Project_Logo">
 	<br>
 	<br>
-	<br>
-	<br>
 	<div>
 		<h2>
 			<a href="https://link">Project Name</a>
@@ -29,28 +27,30 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://link">arxiv paper link</a>
+				<a href="https://link">Link to arXiv paper 📖</a>
 			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
 		<a href="link acm ai lab">
-			<picture>
-				<img width="300" src="media/ACM_AI_Lab_Logo_Black.png" alt="ACM AI Lab - Logo">
-      </picture>
 			<div>
-				<sub>ACM AI Lab</sub>
+				<img width="200" src="media/ACM_AI_Lab_Logo_Black.png" alt="ACM AI Lab - Logo">
+    			</div>
+			<b>ACM AI Lab</b>
+			<div>
+				<sub>Research Project Conducted as part of the ACM AI Lab</sub>
 			</div>
 		</a>
 		<br>
 		<br>
 		<a href="https://link uni wuppertal">
 			<div>
-				<img src="media/BUW_Logo.jpg" width="400" alt="Bergische Universität Wuppertal - Logo">
+				<img src="media/BUW_Logo.jpg" width="250" alt="Bergische Universität Wuppertal - Logo">
 			</div>
+			<b>Bergische Universität Wuppertal</b>
 			<div>
-				<sub>Bergische Universität Wuppertal</sub>
+				<sub>In colaboration with Bergische Universität Wuppertal as part of Fakultät 4 for Math and Computer Science</sub>
 			</div>
 		</a>
     <br>
@@ -58,10 +58,11 @@
 		<br>
 		<a href="link weitere partner">
 			<div>
-				<img src="media/missing.png" width="400" alt="weitere partner - Logo">
+				<img src="media/missing.png" width="100" alt="weitere partner - Logo">
 			</div>
+			<b>Other partners</b>
 			<div>
-				<sub>weitere partner</sub>
+				<sub>Explaining the colaboration with other partnets </sub>
 			</div>
 		</a>
 		<br>
@@ -76,13 +77,13 @@
 <p align="center">
 	<a href="link">Abstract</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">Impact</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">Relevant point</a>&nbsp;&nbsp;&nbsp;
+	<a href="link">Code</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">arxiv</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <br>
 <p align="center">
-	relevant project description.
+	short project description.
 </p>
 <br>
 <br>
