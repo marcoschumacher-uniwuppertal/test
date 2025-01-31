@@ -37,7 +37,7 @@
 		<br>
 		<a href="link acm ai lab">
 			<picture>
-				<img width="340" src="link acm ai lab logo" alt="ACM AI Lab - Logo">
+				<img width="340" src="media/ACM_AI_Lab_Logo.png" alt="ACM AI Lab - Logo">
       </picture>
 			<b>ACM AI Lab</b>
 			<div>
@@ -48,7 +48,7 @@
 		<br>
 		<a href="https://link uni wuppertal">
 			<div>
-				<img src="https://www.grafik.uni-wuppertal.de/fileadmin/grafik/intern/Logos/BUW_Logo-weiss-auf-gruen-RGB.jpg" width="200" alt="Bergische Universität Wuppertal - Logo">
+				<img src="media/BUW_Logo.png" width="200" alt="Bergische Universität Wuppertal - Logo">
 			</div>
 			<b>Bergische Universität Wuppertal</b>
 			<div>
