@@ -37,10 +37,10 @@
 		<br>
 		<a href="link acm ai lab">
 			<picture>
-				<img width="340" src="media/ACM_AI_Lab_Logo_Black.png" alt="ACM AI Lab - Logo">
+				<img width="300" src="media/ACM_AI_Lab_Logo_Black.png" alt="ACM AI Lab - Logo">
       </picture>
 			<div>
-				<sub>Sub ACM AI Lab.</sub>
+				<sub>ACM AI Lab</sub>
 			</div>
 		</a>
 		<br>
@@ -50,7 +50,7 @@
 				<img src="media/BUW_Logo.jpg" width="400" alt="Bergische Universität Wuppertal - Logo">
 			</div>
 			<div>
-				<sub>Sub Text uni Wuppertal.</sub>
+				<sub>Bergische Universität Wuppertal</sub>
 			</div>
 		</a>
     <br>
@@ -58,10 +58,10 @@
 		<br>
 		<a href="link weitere partner">
 			<div>
-				<img src="link logo weitere partner" width="200" alt="weitere partner - Logo">
+				<img src="media/missing.png" width="400" alt="weitere partner - Logo">
 			</div>
 			<div>
-				<sub>weitere partner.</sub>
+				<sub>weitere partner</sub>
 			</div>
 		</a>
 		<br>
