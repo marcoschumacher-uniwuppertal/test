@@ -39,7 +39,8 @@
     			</div>
 			<b>ACM AI Lab</b>
 			<div>
-				<sub>Research Project Conducted as part of the ACM AI Lab</sub>
+				<sub>Research Project Conducted as part of the ACM AI Lab</sub><br>
+				<sub>Uncertainty quantification in deep learning</sub>
 			</div>
 		</a>
 		<br>
@@ -51,7 +52,7 @@
 			</div>
 			<b>Bergische Universität Wuppertal</b>
 			<div>
-				<sub>In colaboration with Bergische Universität Wuppertal as part of Fakultät 4 for Math and Computer Science</sub>
+				<sub>In colaboration with Bergische Universität Wuppertal as part of School of Mathematics and Natural Sciences</sub>
 			</div>
 		</a>
     <br>
