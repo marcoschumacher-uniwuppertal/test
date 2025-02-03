@@ -78,7 +78,7 @@
 </div>
 <p align="center">
 	<a href="link">Abstract</a>&nbsp;&nbsp;&nbsp;
-	<a href="link">Impact</a>&nbsp;&nbsp;&nbsp;
+	<a href="link">Approach</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">Code</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">arxiv</a>&nbsp;&nbsp;&nbsp;
 </p>
