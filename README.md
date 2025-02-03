@@ -80,6 +80,7 @@
 	<a href="link">Abstract</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">Approach</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">Code</a>&nbsp;&nbsp;&nbsp;
+	<a href="link">Results</a>&nbsp;&nbsp;&nbsp;
 	<a href="link">arxiv</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -91,66 +92,27 @@
 <br>
 <br>
 
-## Contents
+## Abstract
 
-- [Platforms](#platforms)
+- Short Abstract of the project
 
-## Media
+## Approach
 
-- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
-- [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
-- [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
-- [Music](https://github.com/ciconia/awesome-music#readme)
-- [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
-- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
-- [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
-- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+- A more detailed description of the projectes approach
 
 
-## Hardware
+## Code
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
+- An overview of the actual code and detailed implementation (could be skipped for a short project overview, I am not sure)
 
+  
+## Results
 
-## Business
-
-- [Open Companies](link)
-- [Places to Post Your Startup](link)
-
-
-## Work
-
-- [Slack](link)
-- [Communities](link)
-
-## Networking
-
-- [Software-Defined Networking](link)
-- [PCAPTools](link)
-- [Real-Time Communications](link)
-- [SNMP](link) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
-- [Scapy](link) - Python-based interactive packet manipulation.
-
-## Health and Social Science
-
-- [Biomedical Information Extraction](link) - How to extract information from unstructured biomedical data and text.
-- [Computational Neuroscience](link) - A multidisciplinary science which uses computational approaches to study the nervous system.
-
-## Testing
-
-- [Testing](link) - Software testing.
+- Results
 
 
-## Related
+## Future works / Credits
 
-- [All Awesome Lists](link) - All the Awesome lists on GitHub.
-- [Awesome Search](link) - Quick search for Awesome lists.
-- [StumbleUponAwesome](link) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](link) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](link) - A visualizer for all of the above Awesome lists.
-- [Track Awesome List](link) - View the latest updates of Awesome lists.
-- [Open Source Heroes - Awesome](link) - View Awesome lists with extra info like stars, last update, and license.
+- Future work
+- Discussion
+- Credits
