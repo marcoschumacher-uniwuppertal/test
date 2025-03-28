@@ -7,7 +7,7 @@
 			<a href="https://link">Project Name</a>
 			<br>
 			<sup>Sub Name / Sentence</sup><br>
-			<sup><b>Project authoren</b></sup>
+			<sup>Project authoren</sup>
 		</h2>
 	</div>
 </div>  
