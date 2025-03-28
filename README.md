@@ -7,6 +7,7 @@
 			<a href="https://link">Project Name</a>
 			<br>
 			<sup>Sub Name / Sentence</sup>
+			<sup>Project authoren</sup>
 		</h2>
 	</div>
 </div>  
@@ -116,3 +117,6 @@
 - Future work
 - Discussion
 - Credits
+
+## Bibtext
+<div>codeblock: bibtext</div>
