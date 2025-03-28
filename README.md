@@ -6,8 +6,8 @@
 		<h2>
 			<a href="https://link">Project Name</a>
 			<br>
-			<sup>Sub Name / Sentence</sup>
-			<sup>Project authoren</sup>
+			<sup>Sub Name / Sentence</sup><br>
+			<sup><b>Project authoren</b></sup>
 		</h2>
 	</div>
 </div>  
